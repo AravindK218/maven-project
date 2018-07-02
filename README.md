@@ -1,2 +1,2 @@
 # maven-project
-"testing the version"
+"final version1.0"
